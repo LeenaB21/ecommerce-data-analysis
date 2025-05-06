@@ -33,7 +33,7 @@ An interactive Power BI dashboard was created to present key business insights. 
 - Visualizations for sales by product category, order volume over time, review score distribution, and delivery status breakdown.
 - Helps stakeholders identify trends and make data-driven decisions.
 
-![Power BI Dashboard](images/dashboard_screenshot.png)
+![Power BI Dashboard](Images/dashboard_screenshot.png)
 
 ## Modules Used
 
