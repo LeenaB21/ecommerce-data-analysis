@@ -1,6 +1,6 @@
 # E-Commerce Data Analysis Project
 
-This project explores an e-commerce dataset through data cleaning, exploratory analysis, and time series insights using Python. It also includes interactive Power BI dashboards to visualize customer satisfaction, product trends, and delivery performance for business decision-makingIt is organized into three main Jupyter Notebooks:
+This project explores an e-commerce dataset through data cleaning, exploratory analysis, and time series insights using Python. It also includes interactive Power BI dashboards to visualize customer satisfaction, product trends, and delivery performance for business decision-making.
 
 ## Notebooks Overview
 
